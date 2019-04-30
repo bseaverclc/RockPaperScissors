@@ -18,7 +18,7 @@ import SafariServices
 // UINavigationController is what allows segues to function and move
 // between ViewController's
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
-    
+    // hi jack
     @IBOutlet var computerPlayerImage: UIImageView!
     @IBOutlet var userPlayerImage: UIImageView!
     @IBOutlet weak var stackView: UIStackView!
